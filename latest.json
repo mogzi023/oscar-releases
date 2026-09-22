@@ -1,0 +1,10 @@
+{
+  "latest": {
+    "version": "0.9.0",
+    "published": "2026-09-22",
+    "downloadURL": "https://github.com/mogzi023/oscar-releases/releases/download/v0.9.0/OSCAR-0.9.0.dmg",
+    "sha256": "955323043cde2f9ea8873c58e768fc0e835836a190eef8b547294bbb677e0480",
+    "notesURL": "https://github.com/mogzi023/oscar-releases/releases/tag/v0.9.0",
+    "summary": "Quadrant patching and the bandwidth hysteresis fix."
+  }
+}
