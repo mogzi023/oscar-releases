@@ -1,10 +1,10 @@
 {
   "latest": {
-    "version": "0.9.0",
-    "published": "2026-09-22",
-    "downloadURL": "https://github.com/mogzi023/oscar-releases/releases/download/v0.9.0/OSCAR-0.9.0.dmg",
-    "sha256": "955323043cde2f9ea8873c58e768fc0e835836a190eef8b547294bbb677e0480",
-    "notesURL": "https://github.com/mogzi023/oscar-releases/releases/tag/v0.9.0",
-    "summary": "Quadrant patching and the bandwidth hysteresis fix."
+    "version": "0.12.0",
+    "published": "2026-10-15",
+    "downloadURL": "https://github.com/mogzi023/oscar-releases/releases/download/v0.12.0/OSCAR-0.12.0.dmg",
+    "sha256": "3abb2b71163d9bec8620c9b274129a244adb3a298555dfdb9061a82db5dfa817",
+    "notesURL": "https://github.com/mogzi023/oscar-releases/releases/tag/v0.12.0",
+    "summary": "Fixes Hap Q takes that could fail silently, and records 50i cameras at a true 50p."
   }
 }
