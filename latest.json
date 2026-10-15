@@ -1,10 +1,10 @@
 {
   "latest": {
-    "version": "0.12.0",
+    "version": "0.13.0",
     "published": "2026-10-15",
-    "downloadURL": "https://github.com/mogzi023/oscar-releases/releases/download/v0.12.0/OSCAR-0.12.0.dmg",
-    "sha256": "3abb2b71163d9bec8620c9b274129a244adb3a298555dfdb9061a82db5dfa817",
-    "notesURL": "https://github.com/mogzi023/oscar-releases/releases/tag/v0.12.0",
-    "summary": "Fixes Hap Q takes that could fail silently, and records 50i cameras at a true 50p."
+    "downloadURL": "https://github.com/mogzi023/oscar-releases/releases/download/v0.13.0/OSCAR-0.13.0.dmg",
+    "sha256": "d7cb4acad93fc948513b3ae2e5312d4b38bf8790befba7b003671df52c0792ab",
+    "notesURL": "https://github.com/mogzi023/oscar-releases/releases/tag/v0.13.0",
+    "summary": "OSCAR now warns before quitting with unsaved changes."
   }
 }
